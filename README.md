@@ -6,7 +6,7 @@ Passgen is a simple random password generator script written in Bash. It generat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/passgen.git
+   git clone https://github.com/PiyushaAkash/passgen.git
 
 2. Go to main folder:
 cd passgen
