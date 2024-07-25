@@ -4,7 +4,7 @@
 
 echo
 echo -e '\033[1;20m' "PassGen is a random password generator tool created by Piyusha Akash"
-echo -e '\033[0;20m' "https://github.com/PiyushaAkash"
+echo -e '\033[0;20m' "https://github.com/0DayS3c"
 echo -e '\033[1;33m' "|- Generate your Password using PassGen"
 echo -e '\033[1;31m' ""
 read -p ' |- Please eneter length of the Password : ' PASS_LENGTH
